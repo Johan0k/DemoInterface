@@ -8,7 +8,7 @@ public class Circulo implements FiguraGeometrica {
         return Math.PI * Math.pow(radio, 2);
     }
 
-    // Getter y setter para el radio
+   
     public double getRadio() {
         return radio;
     }
